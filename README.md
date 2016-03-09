@@ -6,7 +6,7 @@
 - A working socket server can be found here: http://arunchatserver.herokuapp.com/
 - This front end expects that your chats get sent as objects in the format:
 
-```javascript
+```
 {
 	name: "Arun",
 	message: "Hello world!"
